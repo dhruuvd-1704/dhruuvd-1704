@@ -15,7 +15,7 @@
 - 🎓 Pursuing **B.Tech in Computer Engineering** at **VJTI Mumbai**  
 - 💡 Interested in **Full Stack Development, Machine Learning, and Predictive Analytics**  
 - 🛠 Currently working on: **AutoML Predictive Maintenance Platform (Click2Model)**  
-- 🌱 Learning more about **Cloud Deployment & MLOps**  
+- 🤝 Member of **Competitive Programming (CP) Club, VJTI Mumbai**  
 - 📫 Reach me at **dhruuvd@gmail.com**  
 - ⚡ Fun fact: I love solving real-world problems with code and exploring new technologies!  
 
@@ -52,18 +52,6 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruuvd-1704&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruuvd-1704&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruuvd-1704&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
